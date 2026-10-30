@@ -12,3 +12,36 @@ The goal is to build a structured, reproducible foundation for understanding how
 This repository is intended to evolve into a collection of technical explanations, algorithmic implementations, experiments, and evaluations covering modern LLM post-training methods.
 
 Project status: Early-stage repository. The current repository contains the initial README and license. Algorithm implementations, training pipelines, and experimental results are planned additions and are not yet included.
+
+
+Table of Contents
+
+Overview
+
+Research Objectives
+
+Understanding the Methods
+
+RLHF vs. PPO vs. GRPO
+
+Conceptual Training Workflows
+
+Technical Foundations
+
+Planned Experiments
+
+Evaluation Framework
+
+Technology Stack
+
+Getting Started
+
+Planned Repository Structure
+
+Roadmap
+
+Research References
+
+Contributing
+
+License
