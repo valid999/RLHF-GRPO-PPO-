@@ -17,6 +17,7 @@ This repository is intended to evolve into a collection of technical explanation
 ## Table of Contents
 
 - [Overview](#overview)
+
 - [Research Objectives](#research-objectives)
 - [Understanding the Methods](#understanding-the-methods)
 - [RLHF vs. PPO vs. GRPO](#rlhf-vs-ppo-vs-grpo)
